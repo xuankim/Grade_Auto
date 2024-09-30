@@ -11,4 +11,7 @@ public class Test1 {
     public  void run1(){
         System.out.println("Hello");
     }
+    public  void run2(){
+        System.out.println("hmm");
+    }
 }
